@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GNC\\\u5DE5\u4F5C_\u706B\u7BAD\u59FF\u63A7\u7CFB\u7EDF\\\u706B\u7BAD\u516D\u81EA\u7531\u5EA6\u4EFF\u771F\u7A0B\u5E8F\\ZS_1_AttitudeControl_v1.1\\",
+  "Documents": [],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
